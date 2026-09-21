@@ -7,4 +7,4 @@
 
 I like computers and making things. Learning as I go.
 
-[Portfolio](https://vetriportfolio.vercel.app) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/vetrikalanjiyam/) &nbsp; / &nbsp; [Email](mailto:vetrikalanjiyam@gmail.com)
+[Portfolio](https://vetri-portfolio-17.web.app/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/vetrikalanjiyam/) &nbsp; / &nbsp; [Email](mailto:vetrikalanjiyam@gmail.com)
